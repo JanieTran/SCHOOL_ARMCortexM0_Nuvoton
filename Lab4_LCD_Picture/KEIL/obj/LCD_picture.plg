@@ -1,0 +1,62 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\NUC140_Information\Nu_LB_NUC140_Dev\ProjectDev\Nu-LB-NUC140\Lab4_LCD_Picture\KEIL\Nu-LB-NUC140_Lab4_LCD_Picture.uvproj
+Project File Date:  08/31/2017
+
+<h2>Output:</h2>
+Build target 'LCD_picture'
+compiling main.c...
+..\main.c(113): error:  #20: identifier "diamond_16x16" is undefined
+..\main.c(120): error:  #20: identifier "archer_32x48" is undefined
+..\main.c(124): error:  #20: identifier "archer_release_32x48" is undefined
+..\main.c(128): error:  #20: identifier "arrow_32x16" is undefined
+Target not created
+Build target 'LCD_picture'
+compiling main.c...
+..\main.c(113): error:  #20: identifier "diamond_16x16" is undefined
+..\main.c(120): error:  #20: identifier "archer_32x48" is undefined
+..\main.c(124): error:  #20: identifier "archer_release_32x48" is undefined
+..\main.c(128): error:  #20: identifier "arrow_32x16" is undefined
+Target not created
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+..\picture.h(27): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\picture.h(27): warning:  #1-D: last line of file ends without a newline
+..\main.c(120): error:  #20: identifier "archer_32x48" is undefined
+..\main.c(124): error:  #20: identifier "archer_release_32x48" is undefined
+..\main.c(128): error:  #20: identifier "arrow_32x16" is undefined
+Target not created
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(120): error:  #20: identifier "archer_32x48" is undefined
+..\main.c(124): error:  #20: identifier "archer_release_32x48" is undefined
+..\main.c(128): error:  #20: identifier "arrow_32x16" is undefined
+Target not created
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\picture.h(31): error:  #67: expected a "}"
+..\picture.h(42): warning:  #12-D: parsing restarts here after previous syntax error
+..\picture.h(46): error:  #67: expected a "}"
+..\picture.h(57): warning:  #12-D: parsing restarts here after previous syntax error
+..\picture.h(61): error:  #67: expected a "}"
+..\picture.h(64): warning:  #12-D: parsing restarts here after previous syntax error
+Target not created
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+linking...
+Program Size: Code=2340 RO-data=224 RW-data=5932 ZI-data=2052  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_LCD_Picture\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...

@@ -1,0 +1,27 @@
+*** Creating Trace Output File '.\obj\LCD_picture.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\system_nuc100series.o"'
+### List of Objects: adding '".\obj\startup_nuc100series.o"'
+### List of Objects: adding '".\obj\clk.o"'
+### List of Objects: adding '".\obj\uart.o"'
+### List of Objects: adding '".\obj\spi.o"'
+### List of Objects: adding '".\obj\gpio.o"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\sys_init.o"'
+### List of Objects: adding '".\obj\lcd.o"'
+### List of Objects: adding '".\obj\draw2d.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0 ".\obj\system_nuc100series.o" ".\obj\startup_nuc100series.o" ".\obj\clk.o" ".\obj\uart.o" ".\obj\spi.o" ".\obj\gpio.o" ".\obj\main.o" ".\obj\sys_init.o" ".\obj\lcd.o" ".\obj\draw2d.o" --library_type=microlib --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --map --first='startup_NUC100Series.o(RESET)' --datacompressor=off --info=inline --entry Reset_Handler --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\lst\LCD_picture.map" -o ".\obj\LCD_picture.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\obj\LCD_picture.axf'
+### ADS-LD Command File: '.\obj\LCD_picture.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\obj\LCD_picture.lnp', Handle=0x00000A54
+### Writing '.lnp' file
+### ADS-LD Command file '.\obj\LCD_picture.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

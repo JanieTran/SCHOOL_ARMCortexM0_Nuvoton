@@ -1,0 +1,118 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\NUC140_Information\Nu_LB_NUC140_Dev\ProjectDev\Nu-LB-NUC140\Lab1_PushButton\KEIL\Nu-LB-NUC140_Lab1_PushButton.uvproj
+Project File Date:  07/20/2017
+
+<h2>Output:</h2>
+Build target 'ProjectName'
+creating preprocessor file for main.c...
+..\main.c(89): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\main.c(46): error:  #65: expected a ";"
+..\main.c(89): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'ProjectName'
+creating preprocessor file for main.c...
+..\main.c(78): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\main.c(78): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1696 RO-data=224 RW-data=8 ZI-data=1040  
+FromELF: creating hex file...
+User command #1: fromelf --bin ".\obj\ProjectName.axf" --output ".\obj\ProjectName.bin"
+User command #2: fromelf --text -c ".\obj\ProjectName.axf" --output ".\obj\ProjectName.txt"
+".\obj\ProjectName.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab1_PushButton\\KEIL\\obj\\ProjectName.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'ProjectName'
+creating preprocessor file for main.c...
+..\main.c(78): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\main.c(78): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1700 RO-data=224 RW-data=8 ZI-data=1040  
+FromELF: creating hex file...
+User command #1: fromelf --bin ".\obj\ProjectName.axf" --output ".\obj\ProjectName.bin"
+User command #2: fromelf --text -c ".\obj\ProjectName.axf" --output ".\obj\ProjectName.txt"
+".\obj\ProjectName.axf" - 0 Error(s), 1 Warning(s).
+Build target 'ProjectName'
+creating preprocessor file for main.c...
+..\main.c(78): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\main.c(78): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1700 RO-data=224 RW-data=8 ZI-data=1040  
+FromELF: creating hex file...
+User command #1: fromelf --bin ".\obj\ProjectName.axf" --output ".\obj\ProjectName.bin"
+User command #2: fromelf --text -c ".\obj\ProjectName.axf" --output ".\obj\ProjectName.txt"
+".\obj\ProjectName.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab1_PushButton\\KEIL\\obj\\ProjectName.AXF" 
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab1_PushButton\\KEIL\\obj\\ProjectName.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'ProjectName'
+creating preprocessor file for main.c...
+..\main.c(81): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\main.c(61): error:  #268: declaration may not appear after executable statement in block
+..\main.c(62): error:  #18: expected a ")"
+..\main.c(68): warning:  #12-D: parsing restarts here after previous syntax error
+..\main.c(68): error:  #127: expected a statement
+..\main.c(81): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'ProjectName'
+creating preprocessor file for main.c...
+..\main.c(81): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\main.c(61): error:  #268: declaration may not appear after executable statement in block
+..\main.c(81): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'ProjectName'
+creating preprocessor file for main.c...
+..\main.c(80): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\main.c(61): error:  #254: type name is not allowed
+..\main.c(61): error:  #65: expected a ";"
+..\main.c(61): error:  #20: identifier "a" is undefined
+..\main.c(80): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'ProjectName'
+creating preprocessor file for main.c...
+..\main.c(81): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\main.c(81): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1708 RO-data=224 RW-data=8 ZI-data=1040  
+FromELF: creating hex file...
+User command #1: fromelf --bin ".\obj\ProjectName.axf" --output ".\obj\ProjectName.bin"
+User command #2: fromelf --text -c ".\obj\ProjectName.axf" --output ".\obj\ProjectName.txt"
+".\obj\ProjectName.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab1_PushButton\\KEIL\\obj\\ProjectName.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'ProjectName'
+creating preprocessor file for main.c...
+..\main.c(81): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\main.c(81): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1708 RO-data=224 RW-data=8 ZI-data=1040  
+FromELF: creating hex file...
+User command #1: fromelf --bin ".\obj\ProjectName.axf" --output ".\obj\ProjectName.bin"
+User command #2: fromelf --text -c ".\obj\ProjectName.axf" --output ".\obj\ProjectName.txt"
+".\obj\ProjectName.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab1_PushButton\\KEIL\\obj\\ProjectName.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...

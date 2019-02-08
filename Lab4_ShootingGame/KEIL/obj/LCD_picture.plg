@@ -1,0 +1,90 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\NUC140_Information\Nu_LB_NUC140_Dev\ProjectDev\Nu-LB-NUC140\Lab4_ShootingGame\KEIL\Nu-LB-NUC140_Lab4_ShootingGame.uvproj
+Project File Date:  08/31/2017
+
+<h2>Output:</h2>
+Build target 'LCD_picture'
+linking...
+Program Size: Code=3060 RO-data=224 RW-data=10384 ZI-data=2048  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_ShootingGame\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_ShootingGame\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_ShootingGame\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+linking...
+Program Size: Code=3060 RO-data=224 RW-data=10384 ZI-data=2048  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_ShootingGame\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+linking...
+Program Size: Code=3060 RO-data=224 RW-data=10384 ZI-data=2048  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_ShootingGame\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_ShootingGame\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+linking...
+Program Size: Code=3064 RO-data=224 RW-data=10384 ZI-data=2048  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_ShootingGame\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_ShootingGame\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_ShootingGame\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_ShootingGame\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_ShootingGame\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...

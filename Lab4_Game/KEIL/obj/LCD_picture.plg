@@ -1,0 +1,520 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\NUC140_Information\Nu_LB_NUC140_Dev\ProjectDev\Nu-LB-NUC140\Lab4_Game\KEIL\Nu-LB-NUC140_Lab4_Game.uvproj
+Project File Date:  08/31/2017
+
+<h2>Output:</h2>
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+..\main.c(328): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\main.c(82): warning:  #520-D: initialization with "{...}" expected for aggregate object
+..\main.c(82): error:  #29: expected an expression
+..\main.c(83): warning:  #520-D: initialization with "{...}" expected for aggregate object
+..\main.c(83): error:  #29: expected an expression
+..\main.c(106): warning:  #223-D: function "srand" declared implicitly
+..\main.c(106): warning:  #223-D: function "time" declared implicitly
+..\main.c(134): error:  #20: identifier "apple_no" is undefined
+..\main.c(159): warning:  #223-D: function "Genesis_Snake" declared implicitly
+..\main.c(307): error:  #20: identifier "apple_no" is undefined
+..\main.c(317): error:  #159: declaration is incompatible with previous "Genesis_Snake" (declared at line 159)
+..\main.c(323): warning:  #186-D: pointless comparison of unsigned integer with zero
+..\main.c(324): warning:  #223-D: function "abs" declared implicitly
+..\main.c(328): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+..\main.c(328): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\main.c(83): warning:  #520-D: initialization with "{...}" expected for aggregate object
+..\main.c(83): error:  #29: expected an expression
+..\main.c(84): warning:  #520-D: initialization with "{...}" expected for aggregate object
+..\main.c(84): error:  #29: expected an expression
+..\main.c(159): warning:  #223-D: function "Genesis_Snake" declared implicitly
+..\main.c(317): error:  #159: declaration is incompatible with previous "Genesis_Snake" (declared at line 159)
+..\main.c(323): warning:  #186-D: pointless comparison of unsigned integer with zero
+..\main.c(328): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(83): warning:  #520-D: initialization with "{...}" expected for aggregate object
+..\main.c(83): error:  #29: expected an expression
+..\main.c(84): warning:  #520-D: initialization with "{...}" expected for aggregate object
+..\main.c(84): error:  #29: expected an expression
+..\main.c(159): warning:  #223-D: function "Genesis_Snake" declared implicitly
+..\main.c(317): error:  #159: declaration is incompatible with previous "Genesis_Snake" (declared at line 159)
+..\main.c(323): warning:  #186-D: pointless comparison of unsigned integer with zero
+Target not created
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(159): warning:  #223-D: function "Genesis_Snake" declared implicitly
+..\main.c(317): error:  #159: declaration is incompatible with previous "Genesis_Snake" (declared at line 159)
+..\main.c(323): warning:  #186-D: pointless comparison of unsigned integer with zero
+Target not created
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(324): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2484 RO-data=224 RW-data=10268 ZI-data=2252  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(325): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2484 RO-data=224 RW-data=10268 ZI-data=2252  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(324): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2328 RO-data=224 RW-data=10268 ZI-data=2052  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(326): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2336 RO-data=224 RW-data=10268 ZI-data=2052  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(325): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2492 RO-data=224 RW-data=10268 ZI-data=2252  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(325): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2480 RO-data=224 RW-data=10268 ZI-data=2252  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(320): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=2444 RO-data=224 RW-data=10268 ZI-data=2052  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(320): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=2444 RO-data=224 RW-data=10268 ZI-data=2052  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(320): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=2444 RO-data=224 RW-data=10268 ZI-data=2052  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(325): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2476 RO-data=224 RW-data=10268 ZI-data=2252  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(325): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2476 RO-data=224 RW-data=10268 ZI-data=2252  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(325): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2472 RO-data=224 RW-data=10268 ZI-data=2252  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(328): error:  #165: too few arguments in function call
+Target not created
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+linking...
+Program Size: Code=2488 RO-data=224 RW-data=10268 ZI-data=2252  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+linking...
+Program Size: Code=2488 RO-data=224 RW-data=10268 ZI-data=2252  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+..\main.c(352): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\main.c(99): error:  #20: identifier "bool" is undefined
+..\main.c(138): error:  #20: identifier "true" is undefined
+..\main.c(344): warning:  #186-D: pointless comparison of unsigned integer with zero
+..\main.c(352): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+..\main.c(353): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\main.c(345): warning:  #186-D: pointless comparison of unsigned integer with zero
+..\main.c(353): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=2620 RO-data=224 RW-data=10272 ZI-data=2248  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+..\main.c(353): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\main.c(345): warning:  #186-D: pointless comparison of unsigned integer with zero
+..\main.c(353): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=2508 RO-data=224 RW-data=10272 ZI-data=2248  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+..\main.c(353): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\main.c(345): warning:  #186-D: pointless comparison of unsigned integer with zero
+..\main.c(353): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=2624 RO-data=224 RW-data=10272 ZI-data=2248  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+linking...
+Program Size: Code=2624 RO-data=224 RW-data=10272 ZI-data=2248  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+..\main.c(361): warning:  #1-D: last line of file ends without a newline
+compiling main.c...
+..\main.c(345): warning:  #223-D: function "Snake_Clear" declared implicitly
+..\main.c(346): warning:  #186-D: pointless comparison of unsigned integer with zero
+..\main.c(356): error:  #159: declaration is incompatible with previous "Snake_Clear" (declared at line 345)
+..\main.c(361): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(68): warning:  #1295-D: Deprecated declaration Snake_Clear - give arg types
+..\main.c(347): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2680 RO-data=224 RW-data=10272 ZI-data=2248  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(68): warning:  #1295-D: Deprecated declaration Snake_Clear - give arg types
+..\main.c(351): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2576 RO-data=224 RW-data=10272 ZI-data=2248  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(68): warning:  #1295-D: Deprecated declaration Snake_Clear - give arg types
+..\main.c(348): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2512 RO-data=224 RW-data=10272 ZI-data=2248  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(68): warning:  #1295-D: Deprecated declaration Snake_Clear - give arg types
+..\main.c(348): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2696 RO-data=224 RW-data=10272 ZI-data=2248  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(68): warning:  #1295-D: Deprecated declaration Snake_Clear - give arg types
+..\main.c(348): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2692 RO-data=224 RW-data=10272 ZI-data=2248  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(68): warning:  #1295-D: Deprecated declaration Snake_Clear - give arg types
+..\main.c(348): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2692 RO-data=224 RW-data=10272 ZI-data=2248  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(68): warning:  #1295-D: Deprecated declaration Snake_Clear - give arg types
+..\main.c(336): warning:  #186-D: pointless comparison of unsigned integer with zero
+..\main.c(348): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2680 RO-data=224 RW-data=10272 ZI-data=2248  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 3 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(68): warning:  #1295-D: Deprecated declaration Snake_Clear - give arg types
+..\main.c(336): warning:  #186-D: pointless comparison of unsigned integer with zero
+..\main.c(348): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2684 RO-data=224 RW-data=10272 ZI-data=2248  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 3 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(68): warning:  #1295-D: Deprecated declaration Snake_Clear - give arg types
+..\main.c(336): warning:  #186-D: pointless comparison of unsigned integer with zero
+..\main.c(348): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2672 RO-data=224 RW-data=10272 ZI-data=2248  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 3 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(68): warning:  #1295-D: Deprecated declaration Snake_Clear - give arg types
+..\main.c(336): warning:  #186-D: pointless comparison of unsigned integer with zero
+..\main.c(348): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2500 RO-data=224 RW-data=10272 ZI-data=2248  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 3 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(68): warning:  #1295-D: Deprecated declaration Snake_Clear - give arg types
+..\main.c(336): warning:  #186-D: pointless comparison of unsigned integer with zero
+..\main.c(348): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2500 RO-data=224 RW-data=10272 ZI-data=2248  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 3 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
+Build target 'LCD_picture'
+creating preprocessor file for main.c...
+compiling main.c...
+..\main.c(68): warning:  #1295-D: Deprecated declaration Snake_Clear - give arg types
+..\main.c(336): warning:  #186-D: pointless comparison of unsigned integer with zero
+..\main.c(348): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+Program Size: Code=2500 RO-data=224 RW-data=10272 ZI-data=2248  
+User command #1: fromelf --bin ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.bin"
+User command #2: fromelf --text -c ".\obj\LCD_picture.axf" --output ".\obj\LCD_picture.txt"
+".\obj\LCD_picture.axf" - 0 Error(s), 3 Warning(s).
+Load "C:\\NUC140_Information\\Nu_LB_NUC140_Dev\\ProjectDev\\Nu-LB-NUC140\\Lab4_Game\\KEIL\\obj\\LCD_picture.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running...
